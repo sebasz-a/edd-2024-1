@@ -14,6 +14,7 @@ Cada ejercicio es de propiedad intelectual personal y no hay plagio a otras pers
 - **[Modulo 6](/modulo_6)** -> Montículos binarios: Binary heaps
 - **[Modulo 7](/modulo_7)** -> Árboles binarios de búsqueda: BST
 - **[Modulo 8](/modulo_8)** -> Árboles binarios de búsqueda auto balanceados: AVL tree
+- **[Modulo 9](/modulo_9)** -> Hashing y conjuntos: Hash sets
 - **[Parciales](/parciales)** -> Carpeta que contiene la solución a los dos parciales prácticos del semestre
 
 ### *Nota*: Por motivos de legalidad (? no se encuentran los enunciados de cada ejercicio.
