@@ -14,6 +14,8 @@ para el semestre 2024-1.
 - **[Modulo 6](/modulo_6)** -> Montículos binarios: Binary heaps
 - **[Modulo 7](/modulo_7)** -> Árboles binarios de búsqueda: BST
 - **[Modulo 8](/modulo_8)** -> Árboles binarios de búsqueda auto balanceados: AVL tree
-- **[Modulo 9](/modulo_9)** -> Hashing y conjuntos: Hash sets
-- **[Modulo 10](/modulo_10)** -> Hashing y diciconarios: Hash maps/dicts
+- **[Modulo 9](/modulo_9)** -> Hashing y conjuntos: Hash tables/sets
+- **[Modulo 10](/modulo_10)** -> Hashing y diccionarios: Hash maps/dicts
+- **[Modulo 11](/modulo_11)** -> Grafos: Graphs
+- **[Modulo 12](/modulo_12)** -> Árboles de prefijos: Tries
 - **[Parciales](/parciales)** -> Carpeta que contiene la solución a los dos parciales prácticos del semestre
