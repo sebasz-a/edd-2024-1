@@ -3,7 +3,8 @@
 En este repositorio se encuentran las soluciones a los ejercicios prácticos propuestos de la asignatura Estructuras de datos de la Unal sede Medellín
 para el semestre 2024-1.
 
-*PD*: cada código da solución al ejercicio según la plataforma calificadora
+*PD*: cada código da solución al ejercicio según la plataforma calificadora.
+*PD del PD*: los codigos se encuentran en python, los iré actualizando a c++ mientras vaya aprendiendo más del lenguaje.
 
 ## Módulos y su contenido
 - **[Modulo 1](/modulo_1)** -> Introducción
