@@ -9,7 +9,7 @@ int main() {
     aux = a;
 
     while (aux <= b) {
-        cout << aux << "\n";
+        cout << aux << '\n';
         aux *= a;
     }
 

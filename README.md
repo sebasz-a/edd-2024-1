@@ -1,16 +1,17 @@
-# Holaa
+# Hola
 
 En este repositorio se encuentran las soluciones a los ejercicios prácticos propuestos de la asignatura Estructuras de datos de la Unal sede Medellín
 para el semestre 2024-1.
 
 *PD*: cada código da solución al ejercicio según la plataforma calificadora.
 *PD del PD*: los codigos se encuentran en python, los iré actualizando a c++ mientras vaya aprendiendo más del lenguaje.
+*PD del PD del PD*: hay algunos codigos *raros*, realmente traté de seguir las indicaciones de trabajo y de usara la estructura en su respectivo modulo.
 
 ## Módulos y su contenido
 - **[Modulo 1](/modulo_1)** -> Introducción
 - **[Modulo 2](/modulo_2)** -> Arreglos: Static arrays
 - **[Modulo 3](/modulo_3)** -> Ordenamiento y búsqueda: Sorting and search algorithms
-- **[Modulo 4](/modulo_4)** -> Listas enlazadas: Queues and stacks
+- **[Modulo 4](/modulo_4)** -> Listas enlazadas (Colas y Pilas): Queues and stacks
 - **[Modulo 5](/modulo_5)** -> Arreglos de redimensionamiento dinámico: Dinamyc arrays
 - **[Modulo 6](/modulo_6)** -> Montículos binarios: Binary heaps
 - **[Modulo 7](/modulo_7)** -> Árboles binarios de búsqueda: BST
